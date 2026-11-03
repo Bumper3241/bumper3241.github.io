@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate>
+			<lastBuildDate>Tue, 03 Nov 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://bumper3241.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Vibe-Coding is Changing the Gaming Space. Is it Ethical?</title>
+				<link>https://bumper3241.github.io/blogs/vibe-coding-ethical-hugo/</link>
+				<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>https://bumper3241.github.io/blogs/vibe-coding-ethical-hugo/</guid>
+				<description>&lt;h1 id=&#34;vibe-coding-is-changing-the-gaming-space-is-it-ethical&#34;&gt;Vibe-Coding is Changing the Gaming Space. Is it Ethical?&lt;/h1&gt;&#xA;&lt;p&gt;Seemingly more and more frequently, you’re hearing about AI’s role in projects all across the web. One way this has taken form is the gaming space. Seemingly every day, you’re hearing about projects that seem more and more insane. From the technically impressive world of decompilations—that is, reverse-engineering the source code of older games to allow them to be more easily understood by end-users and enable them to run natively on modern hardware or platforms they were never intended for—to insane modding projects, like the several different games that have Minecraft mechanics plopped in, allowing Steve to place and build houses and blow up Creepers in the likes of Skyrim, Grand Theft Auto, and Elden Ring.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Render Math With Mathjax</title>
 				<link>https://bumper3241.github.io/blogs/math/</link>
